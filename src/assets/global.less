@@ -1,0 +1,57 @@
+@import "./var.less";
+
+body {
+  font-size: 14px;
+}
+.text-center {
+  text-align: center;
+}
+.blue {
+  color: #6495FE;
+}
+.gray {
+  color: #828282;
+}
+.font-s {
+  font-size: 12px;
+}
+
+.font-m {
+  font-size: 14px;
+}
+
+.font-l {
+  font-size: 16px;
+}
+
+.font-xl {
+  font-size: 18px;
+}
+.fixed-box { // fixed-btn 用relative的父元素站位
+  position: relative;
+  height: 60px;
+
+  .van-button--danger {
+    background: #c53439;
+    border: none;
+  }
+}
+
+.fixed-btn {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.van-button--danger {
+  border: none;
+}
+
+#__nuxt {
+  color: @black;
+  .van-button--disabled {
+    background: #CCCCCC;
+    opacity: 1;
+    border: 0;
+  }
+}

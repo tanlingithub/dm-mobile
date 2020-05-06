@@ -1,0 +1,23 @@
+# test
+query {
+  list: activitys {
+    # 活动id
+    activityId
+    # 活动名称
+    name
+    # 活动状态
+    status
+    # 活动类型
+    type
+    # 总库存
+    totalStock
+    # 开始时间
+    startTime
+    # 结束时间
+    endTime
+    # 创建时间
+    createdTime
+    # 商品数量
+    goodsNumber
+  }
+}

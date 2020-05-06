@@ -1,0 +1,16 @@
+{
+	"name": "dm-mobile",
+	"version": "1.0.0",
+	"title": "DM 移动端",
+	"description": "",
+	"type": "template",
+	"platform": [
+		"MOBILE"
+	],
+	"homePage": "/materials/24/dist3d9a0919fa7a4a62d5f494245084dba2/index.html",
+	"category": "商城",
+	"screenshot": "/screenshots/3d9a0919fa7a4a62d5f494245084dba2.png",
+	"path": "templates/DmMobile",
+	"origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+	"hash": "ab2a65dc5b7ec6a66990f4a808f7cf72"
+}

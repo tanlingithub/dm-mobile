@@ -1,0 +1,19 @@
+{
+  "appKey": "hPkHeSdfudV6zI3zbgkg6fAC6PRVTJRo",
+  "appSecret": "3VDQrCHWSqbciGQkkGsybaR5OItlPOZB",
+  "projectId": "df2de34fc546668a898a9b268f9a0878",
+  "id": 475,
+  "name": "test-dm-mobile",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "测试dm移动端",
+  "git": {
+    "url": "https://github.com/tanlingithub/dm-mobile.git",
+    "isPrivate": 0,
+    "username": "3082902468@qq.com",
+    "password": "0dmNWnk4sTHFkN1lxMIiFQ0Yrq+F8xMHzo/pCYoHfj9BGAOV1C+sGNrSUTCnvUs2HouiiDvkV5haVTwxb1ZBRQ=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
